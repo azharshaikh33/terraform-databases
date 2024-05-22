@@ -4,4 +4,8 @@ docdb:
 
 redis:
     source: "https://github.com/azharshaikh33/tf-module-redis.git"
-    version: "main"    
+    version: "main"
+
+mysql:
+    source: "https://github.com/azharshaikh33/tf-module-mysql.git"
+    version: "main"  
